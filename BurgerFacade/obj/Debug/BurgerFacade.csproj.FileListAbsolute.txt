@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BurgerFacade\BurgerFacade\obj\Debug\BurgerFacade.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\BurgerFacade\BurgerFacade\obj\Debug\BurgerFacade.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BurgerFacade\BurgerFacade\bin\Debug\BurgerFacade.exe.config
+C:\Users\User\source\repos\BurgerFacade\BurgerFacade\bin\Debug\BurgerFacade.exe
+C:\Users\User\source\repos\BurgerFacade\BurgerFacade\bin\Debug\BurgerFacade.pdb
+C:\Users\User\source\repos\BurgerFacade\BurgerFacade\obj\Debug\BurgerFacade.exe
+C:\Users\User\source\repos\BurgerFacade\BurgerFacade\obj\Debug\BurgerFacade.pdb
